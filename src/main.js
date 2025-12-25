@@ -6,6 +6,7 @@ document.querySelector('#app').innerHTML = `
     <input type="text" id="todoInput" placeholder="Add a new todo..." />
     <button id="addTodo">Add Todo</button>
     <ul id="todoList"></ul>
+    <a href='/react-todo'>react-todo</a>
   </div>
 `
 const DOM = {
